@@ -40,6 +40,9 @@ Data Cleaning & Filtering
 
 ## 📷 Dashboard Preview
 
+![Coffee shop sales dashboard](https://github.com/user-attachments/assets/370b3731-247d-42ad-9c25-bc906fdf02f5)
+
+
 ## 💡 What I Learned
 Built dynamic dashboards using only Excel tools
 
